@@ -201,3 +201,12 @@ void loop() {
 }
 ```
 ## Block Diagram
+![image](https://github.com/vmhashim/Autism-project/blob/main/ASD/Block%20Diagram.png)
+
+## Results
+The system effectively recognized and responded to RFID cards representing various emotions. It consistently provided accurate feedback, lighting up the green LED and producing corresponding auditory cues when users correctly matched emotions. The system also demonstrated robustness in handling user interactions, ensuring reliable performance throughout testing phases.
+
+## Conclusion
+In conclusion, the developed system showcases reliable functionality in facilitating emotion recognition through RFID technology and user interaction. It reliably provides feedback to enhance learning and engagement, demonstrating its potential as a valuable tool for aiding individuals with Autism Spectrum Disorder (ASD) in social and emotional development. Future iterations could explore additional features such as real-time data logging for progress tracking and integration with educational software to further enhance its educational impact and usability.
+
+This structure highlights the system's performance and potential improvements, similar to the example you provided, but tailored to the context of your project on emotion recognition using RFID technology. Adjust the specifics based on your project's outcomes and future directions.
